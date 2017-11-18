@@ -1,4 +1,4 @@
-# Transporter Ionic Plugin #
+# Tracking Ionic Plugin #
 
 To Install the Plugin please run the following command in your terminal
 
